@@ -1,0 +1,3 @@
+/data/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-frameless/src/main/java/com/xxl/job/executor/sample/frameless/FramelessApplication.java
+/data/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-frameless/src/main/java/com/xxl/job/executor/sample/frameless/jobhandler/SampleXxlJob.java
+/data/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-frameless/src/main/java/com/xxl/job/executor/sample/frameless/config/FrameLessXxlJobConfig.java
